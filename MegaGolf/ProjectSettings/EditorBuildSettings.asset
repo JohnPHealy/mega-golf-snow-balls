@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestGolf.unity
     guid: be2ebc8b254d5a34bb09e59d579c943a
   - enabled: 1
@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene1C.unity
     guid: 149bc21f0703a9a4aaa277a07530c004
+  - enabled: 1
+    path: Assets/Scenes/Scene2C.unity
+    guid: 1769fe48871e3bc41a68e04355b95bc6
+  - enabled: 1
+    path: Assets/Scenes/Snow Hill.unity
+    guid: 1f175b5fce859ce46a6d105ac8b28038
+  - enabled: 1
+    path: Assets/Scenes/Snow Mountain.unity
+    guid: 29ffa10ad9daca0429cff8bc91004aa1
   m_configObjects: {}
